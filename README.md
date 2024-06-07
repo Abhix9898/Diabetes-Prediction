@@ -20,11 +20,5 @@ The dataset used in this project is derived from the the National Institute of D
 - **Performance Analysis**: Evaluates models based on accuracy, precision, and recall. Includes detailed visualizations of model performance.
 - **Data Visualization**: Uses Matplotlib and Seaborn for insightful visualizations of the dataset distribution and model outcomes.
 
-## Contributing
 
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Please ensure to update tests as appropriate.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
